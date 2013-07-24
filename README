@@ -1,0 +1,4 @@
+Simple login application that runs on Apache Tomcat web server 
+and accesses database of usernames using Servlets.
+
+Developed in eclipse.
