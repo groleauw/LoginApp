@@ -23,5 +23,6 @@
 			</tr>
 		</table>
 	</form>
+	<p> New User? <A HREF="Register.jsp">Register here!</A></p>
 </body>
 </html>
